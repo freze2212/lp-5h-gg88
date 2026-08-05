@@ -8,7 +8,7 @@
     var DOMAIN_CONFIG = {
         "gg88xx.vip": "https://www.gg8842.com/?id=852213853",
         "gg88king.top": "https://gg8830.com/?id=467371408",
-        "gg88tong.cc": "https://gg8844.com/?id=111451719"
+        "gg88tong.cc": "https://gg8845.com/?id=343325246"
     };
 
     // Link mặc định dự phòng nếu tên miền truy cập chưa có trong danh sách trên
