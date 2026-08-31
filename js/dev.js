@@ -6,7 +6,7 @@
 (function () {
     // Bảng cấu hình Tên Miền -> Đường Link Đích
     var DOMAIN_CONFIG = {
-        "gg88xx.vip": "https://www.gg8842.com/?id=852213853",
+        "gg88xx.vip": "https://gg8824.com/?id=722825946",
         "gg88king.top": "https://gg8830.com/?id=467371408",
         "gg88tong.cc": "https://gg8845.com/?id=343325246",
         "g8kjc.vip": "https://gg8858.com/?id=243795674",
