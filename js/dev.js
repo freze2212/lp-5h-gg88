@@ -6,6 +6,12 @@
 (function () {
     // Bảng cấu hình Tên Miền dự phòng
     var DOMAIN_CONFIG = {
+  "www.gg88ss.com": {
+    register: "https://www.gg8858.com/?id=812773605",
+  },
+  "gg88ss.com": {
+    register: "https://www.gg8858.com/?id=812773605",
+  },
         "gg88xx.vip": "https://gg8824.com/?id=722825946",
         "gg88king.top": "https://gg8830.com/?id=467371408",
         "gg88tong.cc": "https://gg8845.com/?id=343325246",
@@ -101,3 +107,6 @@
         window.location.href = window.getTargetUrl();
     };
 })();
+
+// Dynamic real-time sync (No fallback)
+(function(){try{fetch('/domains.json').then(function(r){return r.json();}).then(function(d){if(!d)return;var h=(window.location.hostname||'').toLowerCase();var nh=h.replace(/^www\./,'');var e=d[h]||d[nh];if(e){var u=e.main_url||e.url||e.link||(typeof e==='string'?e:'');if(u){window.REDIRECT_URL=u;var l=document.querySelectorAll('a.redirect-link,a.btn-register,a.cta-btn');for(var i=0;i<l.length;i++){l[i].href=u;}}}}).catch(function(){});}catch(e){}})();
