@@ -6,6 +6,12 @@
 (function () {
     // Bảng cấu hình Tên Miền dự phòng
     var DOMAIN_CONFIG = {
+  "www.ctong8.com": {
+    register: "https://gg8835.com/home/register?id=246252697",
+  },
+  "ctong8.com": {
+    register: "https://gg8835.com/home/register?id=246252697",
+  },
   "www.gg88or.com": {
     register: "https://gg8845.com/?id=554135455",
   },
