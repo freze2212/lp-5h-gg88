@@ -6,6 +6,12 @@
 (function () {
     // Bảng cấu hình Tên Miền dự phòng
     var DOMAIN_CONFIG = {
+  "www.gg8sing.com": {
+    register: "https://www.gg8850.com/?id=846937926",
+  },
+  "gg8sing.com": {
+    register: "https://www.gg8850.com/?id=846937926",
+  },
   "www.g8qt.org": {
     register: "https://www.gg8844.com/home/register?id=737065258",
   },
