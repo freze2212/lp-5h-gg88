@@ -25,10 +25,10 @@
     register: "https://gg8845.com/?id=554135455",
   },
   "www.gg88phi.net": {
-    register: "https://gg8850.com/?id=616678618",
+    register: "https://www.gg8853.com/?id=753376566",
   },
   "gg88phi.net": {
-    register: "https://gg8850.com/?id=616678618",
+    register: "https://www.gg8853.com/?id=753376566",
   },
   "www.gg88ss.com": {
     register: "https://www.gg8858.com/?id=812773605",
