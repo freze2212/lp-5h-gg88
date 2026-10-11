@@ -6,6 +6,12 @@
 (function () {
     // Bảng cấu hình Tên Miền dự phòng
     var DOMAIN_CONFIG = {
+  "www.quocte88.us": {
+    register: "https://www.gg8832.com/?id=618277496",
+  },
+  "quocte88.us": {
+    register: "https://www.gg8832.com/?id=618277496",
+  },
   "www.gg8sing.com": {
     register: "https://www.gg8850.com/?id=846937926",
   },
