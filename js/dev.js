@@ -49,10 +49,10 @@
     register: "https://www.gg8853.com/?id=753376566",
   },
   "www.gg88ss.com": {
-    register: "https://www.gg8858.com/?id=812773605",
+    register: "https://www.gg8846.com/?id=239661662",
   },
   "gg88ss.com": {
-    register: "https://www.gg8858.com/?id=812773605",
+    register: "https://www.gg8846.com/?id=239661662",
   },
         "gg88xx.vip": "https://gg8824.com/?id=722825946",
         "gg88king.top": "https://gg8830.com/?id=467371408",
