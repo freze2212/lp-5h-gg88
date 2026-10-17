@@ -6,6 +6,12 @@
 (function () {
     // Bảng cấu hình Tên Miền dự phòng
     var DOMAIN_CONFIG = {
+  "www.88quocte.top": {
+    register: "https://www.gg8843.com/?id=157506453",
+  },
+  "88quocte.top": {
+    register: "https://www.gg8843.com/?id=157506453",
+  },
   "www.ggok.pro": {
     register: "https://www.gg8832.com/home/register?id=628870473",
   },
