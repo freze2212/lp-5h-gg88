@@ -31,10 +31,10 @@
     register: "https://www.gg8850.com/?id=846937926",
   },
   "www.g8qt.org": {
-    register: "https://www.gg8844.com/home/register?id=737065258",
+    register: "https://www.gg8844.com/home/register?id=308566879",
   },
   "g8qt.org": {
-    register: "https://www.gg8844.com/home/register?id=737065258",
+    register: "https://www.gg8844.com/home/register?id=308566879",
   },
   "www.ctong8.com": {
     register: "https://gg8835.com/home/register?id=246252697",
