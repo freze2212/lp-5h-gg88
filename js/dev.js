@@ -6,6 +6,12 @@
 (function () {
     // Bảng cấu hình Tên Miền dự phòng
     var DOMAIN_CONFIG = {
+  "www.gg88ua.com": {
+    register: "https://www.gg8844.com/home/register?id=711511342",
+  },
+  "gg88ua.com": {
+    register: "https://www.gg8844.com/home/register?id=711511342",
+  },
   "www.hup8386.com": {
     register: "https://gg8847.com/home/register?id=492223650",
   },
