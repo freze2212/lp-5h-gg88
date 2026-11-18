@@ -13,10 +13,10 @@
     register: "https://gg8824.com/home/register?id=578000069",
   },
   "www.gg88ws.com": {
-    register: "https://gg8824.com/home/register?id=578000069",
+    register: "https://e39m1m08qc.20137290.com/register.html",
   },
   "gg88ws.com": {
-    register: "https://gg8824.com/home/register?id=578000069",
+    register: "https://e39m1m08qc.20137290.com/register.html",
   },
   "www.gg885.vip": {
     register: "https://www.gg8838.com/home/register?id=415355010",
